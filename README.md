@@ -1,2 +1,1 @@
-# quant_portfolio
-A repo quant related topics
+A repo related quant topics
